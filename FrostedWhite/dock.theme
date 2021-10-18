@@ -1,0 +1,40 @@
+# Frosted White Plank Theme
+#
+# Author:       Jason Bilevitz
+# Repository:   https://github.com/Jason5679/FrostedWhite
+# License:      MIT
+
+
+[PlankTheme]
+TopRoundness=8
+BottomRoundness=0
+LineWidth=1
+OuterStrokeColor=255;;255;;255;;255
+FillStartColor=245;;245;;245;;255
+FillEndColor=225;;225;;225;;255
+InnerStrokeColor=225;;225;;225;;255
+
+[PlankDockTheme]
+HorizPadding=0
+TopPadding=-8
+BottomPadding=1
+ItemPadding=3
+IndicatorSize=5
+IconShadowSize=1
+UrgentBounceHeight=1.6666666666666667
+LaunchBounceHeight=0.625
+FadeOpacity=1
+ClickTime=300
+UrgentBounceTime=600
+LaunchBounceTime=600
+ActiveTime=200
+SlideTime=200
+FadeTime=200
+HideTime=200
+GlowSize=30
+GlowTime=10000
+GlowPulseTime=1000
+UrgentHueShift=150
+ItemMoveTime=150
+CascadeHide=true
+BadgeColor=0;;0;;0;;0
