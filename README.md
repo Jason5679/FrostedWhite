@@ -2,7 +2,7 @@
 
 <p align="center">
 <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Dummy_flag.png" alt="Frosted White">
+<img src="https://github.com/Jason5679/FrostedWhite/blob/main/Screenshot.png?raw=true" alt="Frosted White">
 </p>
 
 ## Usage
